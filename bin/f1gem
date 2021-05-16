@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'f1gem'
+F1gem.execute(ARGV[0])
